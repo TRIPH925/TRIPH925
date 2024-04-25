@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ED-Tech Project**
 
-- 🌱 I’m currently learning **MEARN, NEXT.js, Flutter**
+- 🌱 I’m **MERN, NEXT.js, Flutter** expert
 
 - 💬 Ask me about **React, SQL, PHP, ASP.net**
 
