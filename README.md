@@ -1,6 +1,5 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
-<h1 align="center">Hi , I'm Chirag Kumar</h1>
-<h3 align="center">A full-stack developer</h3>
+<h1 align="center">A full-stack developer</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag1261&label=Profile%20views&color=0e75b6&style=flat" alt="chirag1261" /> </p>
