@@ -11,13 +11,9 @@
 
 - 🌱 I’m currently learning **MEARN, NEXT.js, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://chirag1261.github.io/Portfolio.github.io/](https://chirag1261.github.io/Portfolio.github.io/)
-
 - 💬 Ask me about **React, SQL, PHP, ASP.net**
 
-- 📫 How to reach me **chiragkrkashyap@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LG9HBZ89de3sPe6ebCiqyvtMW78pMdey/view]
+- 📫 How to reach me **3h0925@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
