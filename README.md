@@ -77,7 +77,7 @@
       <br>HTML5
     </td>
      <td align="center" width="96"> 
-      <a href="skills" >
+      <a href="#skills" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
       </a>
       <br>CSS3
@@ -88,7 +88,6 @@
       </a>
       <br>JavaScript
     </td>
-        
      <td align="center" width="96">
       <a href="#skills">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
