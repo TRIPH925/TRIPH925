@@ -53,7 +53,7 @@
     </td>
     <td align="center" width="96">
       <a href="#skills">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
@@ -64,6 +64,12 @@
 
 <table width='100'>
   <tr>
+    <td align="center" width="96">
+      <a href="#skills">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
     <td align="center" width="96">
       <a href="#skills">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
@@ -82,19 +88,26 @@
       </a>
       <br>JavaScript
     </td>
-  <td align="center" width="96">
-      <a href="#skills">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="48" height="48" alt="VueJs" />
-      </a>
-      <br>VueJs
-    </td>    
+        
      <td align="center" width="96">
       <a href="#skills">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
-         <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="#skills">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#skills">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material UI
+    </td>
+    <td align="center" width="96">
       <a href="#skills">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="48" height="48" alt="Bootstrap" />
       </a>
