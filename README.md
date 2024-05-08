@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="96">
       <a href="#skills">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-origin.svg" width="48" height="48" alt="Laravel" />
+         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
@@ -99,6 +99,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#skills">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
     </td>
      <td align="center" width="96">
       <a href="#skills">
