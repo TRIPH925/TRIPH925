@@ -72,6 +72,12 @@
     </td>
     <td align="center" width="96">
       <a href="#skills">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="#skills">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>HTML5
@@ -87,6 +93,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#skills">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
     </td>
      <td align="center" width="96">
       <a href="#skills">
@@ -177,21 +189,21 @@
   </tr>
 </table>
 
->Studied
+>Deployment
 
 <table width='100'>
   <tr>
     <td align="center" width="96">
       <a href="#skills">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="ReactJs" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
       </a>
-      <br>React JS
+      <br>Vercel
     </td>
     <td align="center" width="96">
       <a href="#skills">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" width="48" height="48" alt="Netlify" />
       </a>
-      <br>TypeScript
+      <br>Netlify
     </td>
   </tr>
 </table>
