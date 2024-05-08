@@ -140,7 +140,7 @@
     </td>
     <td align="center" width="96">
       <a href="#skills">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg" width="48" height="48" alt="PHPStorm" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain-wordmark.svg" width="48" height="48" alt="PHPStorm" />
       </a>
       <br>PHPStorm
     </td> 
@@ -171,3 +171,8 @@
     </td>
   </tr>
 </table>
+
+<h2 align="left" id="skills">🏅 Codewars:</h2>
+
+<a href="#title">
+<img src="https://www.codewars.com/users/rsschool_1a76fd895fde02c7/badges/large"/>
