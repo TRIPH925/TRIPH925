@@ -41,19 +41,19 @@
     </td>
     <td align="center" width="96">
       <a href="#skills">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySql" />
+         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySql" />
       </a>
       <br>MySql
     </td>
     <td align="center" width="96">
       <a href="#skills">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSql" />
+         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSql" />
       </a>
       <br>PostgreSql
     </td>
     <td align="center" width="96">
       <a href="#skills">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
