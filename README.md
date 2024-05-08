@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="96">
       <a href="#skills">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" width="48" height="48" alt="Laravel" />
+         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-origin.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
