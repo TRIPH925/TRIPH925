@@ -188,7 +188,7 @@
     </td> 
     <td align="center" width="96">
       <a href="#skills">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="48" height="48" alt="Ubuntu" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
