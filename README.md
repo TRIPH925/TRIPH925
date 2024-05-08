@@ -172,7 +172,3 @@
   </tr>
 </table>
 
-<h2 align="left" id="skills">🏅 Codewars:</h2>
-
-<a href="#title">
-<img src="https://www.codewars.com/users/rsschool_1a76fd895fde02c7/badges/large"/>
