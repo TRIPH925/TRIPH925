@@ -22,7 +22,7 @@
 
 💬 Please feel free to ask me about:
 
-Web development stacks such as `MERN, MEVN, Django and Laravel`,
+Web development stacks such as `MERN, MEVN, Golang and Django`,
 
 AI news and topics including `OpenAI, Gemini, LLM, NLP, and Generative AI`,
 
