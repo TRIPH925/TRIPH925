@@ -26,8 +26,6 @@ Web development stacks such as `MERN, MEVN, Golang and Django`,
 
 AI news and topics including `OpenAI, Gemini, LLM, NLP, and Generative AI`,
 
-Blockchain concepts and trends like `Smart Contract, Solidity, Rust, Solana, WEB3, and DeFi`. <br>
-
 📫 How to reach me **3h0925@gmail.com**
 
 ⚽ Fun fact I am a crazy Messi-fan.
@@ -172,50 +170,10 @@ Blockchain concepts and trends like `Smart Contract, Solidity, Rust, Solana, WEB
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="jQuery" />
-      <br>Rust
-    </td>
-  </tr>
- <tr>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby
-      </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="PHP" />
-      <br>Solidity
-    </td>
-            <td align="center" width="96">
-        <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
-    </td>
-              <td align="center" width="96">
-        <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
-      <br>Solana
-    </td>
-              <td align="center" width="96">
-        <img src="https://assets-global.website-files.com/5d123a0e13543973a9665271/5d129fa97a65fc7deeb743de_Adalo-Final-Logo-Shadow.webp" width="48" height="48" alt="Adalo" />
-      <br>Adalo
-    </td>
-    <td align="center" width="96">
-        <img src="https://assets-global.website-files.com/5e6ea34775d1ae77aaa491ca/5e6eca3a0f8bc32229ba825b_Draftbit-App-Icon.svg" alt="Draftbit" width="48" height="48" />
-      <br>Draftbit
-    </td>
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
- </tr>
+  </tr>
 </table>
 
 <!-- activity graph heroku-app start -->
