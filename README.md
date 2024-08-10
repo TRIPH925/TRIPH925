@@ -16,8 +16,6 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.9%20million%20lines%20of%20code-blue)
 
 
-🔭 I build Web Applicatons with modern UI/UX, AI projects with complex logic and flows Web3 Dapp with real time blockchain event fetching, NFTs, CrossChain. <br>
-
 🤝 I’m looking for a job to challenge **"Real"** world problems. I will bring you the best solution for your idea. <br>
 
 💬 Please feel free to ask me about:
