@@ -47,10 +47,7 @@ Web development stacks such as `MERN, MEVN, React Native, Django`,<br>
 <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a> -->
 
-<a href="https://www.javascripttutorial.net/"><img src="./assets/javascript-original.svg" alt="python" height="100" title="Python documentation"></a>
-<a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html"><img src="./assets/typescript-original.svg" alt="python" height="100" title="Python documentation"></a>
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
-<a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
+
 
 ### TECHNOLOGY
 
