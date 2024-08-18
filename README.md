@@ -1,4 +1,4 @@
-<h1 align="center">A full-stack developer</h1>
+<h1 align="center">A full-stack, Mobile developer</h1>
 
 <p align="center">
   <img align="right" alt="Coding" width="100%" src="WEBP/header.png">
@@ -16,17 +16,13 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.9%20million%20lines%20of%20code-blue)
 
 
-🔭 I build Web Applicatons with modern UI/UX, AI projects with complex logic and flows Web3 Dapp with real time blockchain event fetching, NFTs, CrossChain. <br>
+🔭 I build Web Applicatons with modern UI/UX, AI projects with complex logic. <br>
 
 🤝 I’m looking for a job to challenge **"Real"** world problems. I will bring you the best solution for your idea. <br>
 
 💬 Please feel free to ask me about:
 
-Web development stacks such as `MERN, MEVN, Django and Laravel`,
-
-AI news and topics including `OpenAI, Gemini, LLM, NLP, and Generative AI`,
-
-Blockchain concepts and trends like `Smart Contract, Solidity, Rust, Solana, WEB3, and DeFi`. <br>
+Web development stacks such as `MERN, MEVN, React Native, Django`,<br>
 
 📫 How to reach me **3h0925@gmail.com**
 
