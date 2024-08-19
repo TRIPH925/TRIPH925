@@ -22,7 +22,7 @@
 
 💬 Please feel free to ask me about:
 
-Web development stacks such as `MERN, MEVN, React Native, Django`,<br>
+Web development stacks such as `MERN, MEVN, React Native, Django, Golang`,<br>
 
 📫 How to reach me **3h0925@gmail.com**
 
