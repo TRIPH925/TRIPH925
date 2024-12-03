@@ -1,4 +1,4 @@
-<h1 align="center">A full-stack, Mobile developer</h1>
+<h1 align="center">A Full-stack, DevOps developer</h1>
 
 <p align="center">
   <img align="right" alt="Coding" width="100%" src="WEBP/header.png">
