@@ -90,7 +90,7 @@ Web development stacks such as `MERN, MEVN, React Native, Django, Golang`,<br>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="./assets/antdesign-original.svg" alt="icon" width="48" height="48" />
+        <img src="./assets/rust.svg" alt="icon" width="48" height="48" />
       <br>Antd
     </td>
   </tr>
@@ -124,12 +124,12 @@ Web development stacks such as `MERN, MEVN, React Native, Django, Golang`,<br>
         <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
-      <br>Go
+        <img src="https://skillicons.dev/icons?i=rust" alt="icon" width="48" height="48" />
+      <br>Rust
     </td>
     <td align="center" width="96">
-        <img src="./assets/gin.svg" alt="icon" width="48" height="48" />
-      <br>Gin
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
+      <br>Go
     </td>
   </tr>
   <tr>
